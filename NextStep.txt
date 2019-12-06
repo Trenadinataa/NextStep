@@ -4,3 +4,6 @@ NextStep
 - PHP
 - Git
 - Github
+- Python
+- Java
+- JavaScript

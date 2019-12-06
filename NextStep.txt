@@ -5,5 +5,5 @@ NextStep
 - Git
 - Github
 - Python
-- Java
 - JavaScript
+- MySQL
